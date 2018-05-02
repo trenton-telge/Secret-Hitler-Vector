@@ -25,3 +25,7 @@ To cut/print the game, download whichever file format works best. You'll need to
      
 Rules:     
 http://secrethitler.com/assets/Secret_Hitler_Rules.pdf
+
+Secret Hitler is designed by Max Temkin, Mike Boxleiter, Tommy Maranges and illustrated by Mackenzie Schubert.
+
+Minor changes were made to some graphics, including a change to a free font.
